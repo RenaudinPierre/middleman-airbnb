@@ -19,3 +19,10 @@ monsieurpaillard:
   city_slug: "london"
   wifi: true
   rating: 5s
+Hackdde:
+  name: Andde home
+  description: Big house
+  city_name: "Lyon, France"
+  city_slug: "Lyon"
+  wifi: true
+  rating: 1s
